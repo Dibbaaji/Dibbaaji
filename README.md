@@ -8,7 +8,7 @@ My most recent collaborative project aims to recreate a prediction model for ICU
 Average pooling, self-Attention. The project attempts to reproduce the paper "Monitoring ICU Mortality Risk with A Long Short-Term Memory 
 Recurrent Neural Network". This a final project for my computer science graduate program. 
 
-I can be reached on ajifatou18@gmail.com
+I can be reached at ajifatou18@gmail.com
 
 
 ~Aji 
